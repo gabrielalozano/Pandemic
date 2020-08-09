@@ -1,0 +1,19 @@
+,Gabby,David,#3rd persom,#3rd role,# of outbreaks,CTCO#1,CTCO#2,CTCO#3,CTCO#4,CTCO#5,CTCO#6,CTCO#7,max intensity reached 7max,Cards left,Game:,Reason,Mode
+8/3/2020,Dispatcher,Operations Expert,,,7,Buenos Aires,Sydney,Sydney,Sydney,Karachi,Baghdad,Tehran,6,9,Won,,Expert
+8/3/2020,Quarantine Specialist,Dispatcher,,,8,Khartoum,Cairo,Khartoum,Paris,Milan,Paris,Lagos,5,21,Lost,outbreak in Lagos triggered outbreak in Khartoum,Expert
+8/3/2020,Researcher,Operations Expert,,,3,Lima,Paris,Seoul,,,,,5,19,Won,,Expert
+8/4/2020,Researcher,Medic,,,5,Milan,Atlanta,Tehran,Kolkata,London,,,4,21,Won,,Expert
+8/4/2020,Medic,Dispatcher,,,8,Bogota,Jakarta,Buenos Aires,Sao Paulo,Moscow,Tehran,Tehran,4,29,Lost,outbreak in Tehran triggered outbreak in Moscow,Expert
+8/4/2020,Quarantine Specialist,Contigency Planner,,,6,Kolkata,San Fransico,Osaka,Cairo,New York,Paris,,6,15,Lost,ran out of blue,Expert
+8/4/2020,Operations Expert,Medic,,,8,Washington,Madrid,Madrid,Washington,Cairo,London,Sydney,3,31,Lost,outbreak in Lagos,Expert
+8/4/2020,Quarantine Specialist,Contigency Planner,,,7,Mexico City,Chennai,Essen,Sydney,Bangok,Hong Kong,Chennai,6,7,Won,,Expert
+8/4/2020,Quarantine Specialist,Medic,Tanya,Researcher,5,Mexico City,Samtiago,Jakarta,Miami,Khatoum,,,7,4,Won,,Expert
+8/4/2020,Contigency Planner,Operations Expert,Tanya,Researcher,3,Chennai,Ho chi min city,Mumbai,,,,,4,22,Won,,Expert
+8/4/2020,Researcher,Medic,Tanya,Scientist,2,Kinshasa,Bangkok,,,,,,5,18,Won,,Expert
+8/5/2020,Researcher,Operations Expert,Gabriel,Quarantine Specialist,0,Washington,,,,,,,5,8,Won,,Easy
+8/6/2020,Medic,Operations Expert,Gabriel,Researcher,1,Hong Kong,,,,,,,5,14,Won,,Expert
+8/6/2020,Quarantine Specialist,Dispatcher,Gabriel,Medic,5,Sao Paulo,San Fransico,Washington,Buenos Aires,Hong Kong,,,7,4,Won,,Expert
+8/7/2020,Medic,Quarantine Specialist,,,5,Buenos Aires,Santiago,Santiago,Santiago,Milan,,,7,1,Won,,Expert
+8/7/2020,Researcher,Quarantine Specialist,,,2,Hong Kong,Montereal,,,,,,4,27,Won,,Expert
+8/8/2020,Operations Expert,Quarantine Specialist,,,4,Algiers,Delhi,Baghdad,Santiago,,,,5,11,Won,,Expert
+8/8/2020,Dispatcher,Medic,,,7,Khartoum,Tehran,Karachi,Khartoum,Moscow,San Francisco,Tokyo,5,11,Won,,Expert
